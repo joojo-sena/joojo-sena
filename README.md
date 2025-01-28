@@ -20,8 +20,6 @@ I'm also diving into the exciting fields of Data Science and Cybersecurity, expa
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=joojo-sena&show_icons=true&theme=gruvbox)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joojo-senaa)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Joojo-Sena&theme=gruvbox&border_radius=4.5) -->
-
 #
