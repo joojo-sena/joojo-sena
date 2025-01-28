@@ -18,7 +18,7 @@ I'm also diving into the exciting fields of Data Science and Cybersecurity, expa
 
 #
 
-### 📊 Stats
+### 📊 Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joojo-sena)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Joojo-Sena&theme=gruvbox&border_radius=4.5) -->
