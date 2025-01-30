@@ -29,8 +29,8 @@
 ---
 
 ### 🚀 Projects & Contributions
+🔹 **Alura Front-End Immersion** - In this immersion, we are building a **Spotify web page clone**, applying modern front-end technologies and best development practices. [![GitHub](https://img.shields.io/badge/-Project-000?style=flat-square&logo=github)](https://github.com/joojo-sena/1-Aula-Imersao-Front-End-Alura.git)
 
-🔹 **Alura Front-End Immersion** - In this immersion, we are building a **Spotify web page clone**, applying modern front-end technologies and best development practices.
 
 ---
 
