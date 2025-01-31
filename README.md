@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joojo-sena&show_icons=true&theme=radical&hide_border=true"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joojo-sena&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joojo-sena&layout=compact&langs_count=10&theme=radical&hide_border=true"/>
 </div>
 
 ---
